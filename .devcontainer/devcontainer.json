@@ -1,0 +1,6 @@
+{
+    "name": "Modelica",
+    "build" : {
+        "dockerfile": "Dockerfile"
+    }
+}
